@@ -3,6 +3,6 @@ void main(
     {
         int a=56,b=34
         printf("hi");
-        printf("%d",a+b)
+        printf("%d",a-b);
     }
 )
